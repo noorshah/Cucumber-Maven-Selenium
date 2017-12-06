@@ -12,3 +12,6 @@ in terminal
 Then download maven from https://maven.apache.org/download.cgi
 unzip it 
 and check that JAVE_HOME has correct java installation path 
+now follow the installation instructions for maven and type 
+mvn -v
+to check its installed
