@@ -9,3 +9,6 @@ Here is what you can do to install it
 first type 
 java -version 
 in terminal 
+Then download maven from https://maven.apache.org/download.cgi
+unzip it 
+and check that JAVE_HOME has correct java installation path 
